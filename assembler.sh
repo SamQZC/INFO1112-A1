@@ -1,7 +1,5 @@
 #!/bin/bash
 # INFO1112 A1: assemble .vsc text into binary bytes.
-# Generative AI acknowledgement: ChatGPT assisted with requirements,
-# code development, debugging, testing and explanations.
 
 # 1. Print an error on STDOUT and stop.
 fail() {
